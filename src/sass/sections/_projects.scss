@@ -78,3 +78,12 @@
     }
   }
 }
+// Icons for within
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  display: inline-block;
+  width: $carousel-control-icon-width;
+  height: $carousel-control-icon-width;
+  background: no-repeat 50% / 100% 100%;
+  visibility: hidden
+}
