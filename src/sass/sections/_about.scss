@@ -39,6 +39,7 @@
       height: 100%;
       justify-content: center;
       flex-direction: column;
+      margin-top: 1.5rem;
 
       @include respond(tab-port-sm) {
         align-items: center;
